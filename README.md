@@ -192,4 +192,9 @@ AsyncDisplayKit 不支持 AutoLayout、AutoResizing，也不支持StoryBoard、I
 
 综合来分析, AsyncDisplayKit 是一个非常的不错框架; 考虑到AsyncDisplayKit的种种好处，非常推荐AsyncDisplayKit，当然还是仅限于用在比较复杂和动态的页面中。不需要也不可能将所有UIView都替换成其Node版本。将注意力集中在可能造成主线程阻塞的地方，如tableView/collectionView、复杂布局的View、使用连续手势的操作等等。  
 
+## Link 
+
+* [个人博客](http://civelxu.com/2017/09/28/AsyncDisplayKit%20%E5%88%9D%E7%AA%A5/)
+* [简书](http://www.jianshu.com/p/fde96c5bc43f)
+* [GitHub Code](https://github.com/CivelXu/UseAsyncDisplayKit-Practice)
 
