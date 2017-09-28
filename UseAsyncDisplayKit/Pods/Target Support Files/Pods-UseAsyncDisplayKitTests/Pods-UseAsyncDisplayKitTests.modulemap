@@ -1,0 +1,6 @@
+framework module Pods_UseAsyncDisplayKitTests {
+  umbrella header "Pods-UseAsyncDisplayKitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
